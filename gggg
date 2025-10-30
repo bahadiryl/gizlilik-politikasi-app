@@ -1,54 +1,44 @@
-# Privacy Policy
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>İrade Uygulaması Gizlilik Politikası</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; max-width: 800px; }
+        h2 { color: #1e88e5; border-bottom: 2px solid #eee; padding-bottom: 5px; }
+        .verification { color: gray; font-size: small; margin-top: 20px;}
+    </style>
+</head>
+<body>
+    <h1>İrade Uygulaması Gizlilik Politikası</h1>
 
-[tiktokcfXTYaUlVrGOdNxEQFZ6l06YB4KG7JmR (1).txt](attachment:0bfa0cdd-4516-4bc1-9d3f-98fa3a5b9b19:tiktokcfXTYaUlVrGOdNxEQFZ6l06YB4KG7JmR_(1).txt)
+    <h2>1. Toplanan Veriler</h2>
+    <p>Uygulama, deneyiminizi kişiselleştirmek ve temel işlevselliği sağlamak için belirli bilgileri toplar:</p>
+    <ul>
+        <li><b>Kişisel Bilgiler:</b> Ad, yaş, cinsiyet, boy, kilo.</li>
+        <li><b>Hesap Bilgileri:</b> Apple Sign In aracılığıyla elde edilen e-posta ve kullanıcı tanımlayıcı.</li>
+        <li><b>Alışkanlık Takibi Verileri:</b> Günlük notlar, hedefler ve alışkanlık istatistikleri.</li>
+        <li><b>Sağlık Bilgileri:</b> İlaç, beslenme ve egzersiz kayıtları.</li>
+    </ul>
+    <p>🔒 <b>Önemli Not:</b> Tüm veriler **yalnızca cihazınızda yerel olarak saklanır.** Herhangi bir sunucuya yüklenmez, üçüncü taraflarla paylaşılmaz veya bulutta depolanmaz.</p>
 
-iktok-developers-site-verification=cfXTYaUlVrGOdNxEQFZ6l06YB4KG7JmR
+    <h2>2. Üçüncü Taraf Hizmetler</h2>
+    <p>Uygulama aşağıdaki üçüncü taraf hizmetleri entegre eder:</p>
+    <ul>
+        <li><b>Apple Sign In:</b> Hesap oluşturma ve kimlik doğrulama için kullanılır. Apple, kullanıcı tanımlayıcı ve e-posta adresi dışında herhangi bir veri paylaşmaz.</li>
+        <li><b>RevenueCat:</b> Abonelikleri yönetmek için kullanılır. Bu hizmet sadece abonelik durumunu ve ödeme geçmişini anonimleştirilmiş biçimde işler.</li>
+    </ul>
+    <p>Uygulama, bu hizmetlerin gizlilik politikalarına tabidir:</p>
+    <p><a href="https://www.apple.com/legal/privacy/">Apple Gizlilik Politikası</a><br><a href="https://www.revenuecat.com/privacy">RevenueCat Gizlilik Politikası</a></p>
 
-### **1. Data Collected**
+    <h2>3. Veri Paylaşımı</h2>
+    <p>Kullanıcı verileri hiçbir zaman üçüncü taraflarla paylaşılmaz veya satılmaz. Veriler yalnızca temel uygulama işlevlerini etkinleştirmek için işlenir. Geliştirici, kişisel bilgileri reklam, analiz veya profil oluşturma amacıyla kullanmaz.</p>
 
-The app collects certain information to personalize your experience and provide core functionality:
+    <h2>4. Veri Güvenliği</h2>
+    <p>Tüm veriler cihazınızda güvenli bir şekilde saklanır. Uygulama, Apple’ın güvenlik standartlarına ve platform politikalarına uyar. Cihazınızda depolanan veriler, uygulama kaldırıldığında kalıcı olarak silinir.</p>
 
-- **Personal Information:** Name, age, gender, height, weight
-- **Account Information:** Email and user identifier obtained via Apple Sign In
-- **Habit Tracking Data:** Daily reflections, goals, and habit statistics
-- **Health Information:** Medication, nutrition, and exercise records
-
-🔒 **All data is stored locally on your device only.**
-
-It is **not uploaded to any server**, shared with third parties, or stored in the cloud.
-
-### **2. Third-Party Services**
-
-The app integrates the following third-party services:
-
-- **Apple Sign In:** Used for account creation and authentication.
-    
-    Apple does not share any data beyond the user identifier and email address.
-    
-- **RevenueCat:** Used for managing subscriptions.
-    
-    This service only processes **subscription status and payment history**, in an anonymized form.
-    
-
-The app is subject to the privacy policies of these services:
-
-- [Apple Privacy Policy](https://www.apple.com/legal/privacy/)
-- [RevenueCat Privacy Policy](https://www.revenuecat.com/privacy)
-
-### **3. Data Sharing**
-
-- User data is **never shared with or sold to third parties**.
-- Data is processed **solely to enable core app functionality**.
-- The developer does **not use personal information for advertising, analytics, or profiling**.
-
-### **4. Data Security**
-
-- All data is securely stored within your device.
-- The app follows **Apple’s security standards and platform policies**.
-- Data stored on your device is **permanently deleted when the app is uninstalled**.
-
-### **5. Contact**
-
-For any questions or data deletion requests regarding this Privacy Policy, please contact us at:
-
-📧 **irade.app@gmail.com**
+    <h2>5. İletişim</h2>
+    <p>Bu Gizlilik Politikası ile ilgili her türlü soru veya veri silme talepleri için lütfen bize ulaşın:</p>
+    <p>📧 <b>irade.app@gmail.com</b></p>
+</body>
+</html>
